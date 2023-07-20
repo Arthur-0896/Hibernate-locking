@@ -1,0 +1,1 @@
+INSERT INTO courses(id, subject) VALUES (1, 'Math'), (2, 'English');
