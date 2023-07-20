@@ -11,6 +11,7 @@ To Run:\
 ->Right click-> Run As-> Spring Boot Application
 
 Notes:\
+->IDE used is SpringToolSuite 4\
 ->Tested in Postgres SQL 15, PGAdmin 7.3(Optional, but can be used for GUI).\
 ->Sample SQL is included so you don't need to add any data to test the code. However you may add more if required.\
 ->Try the code with different combinations of Hibernate locks- PESSIMISTIC, OPTIMISTIC, etc.\
