@@ -4,7 +4,7 @@ Hibernate locking demo
 Project setup:\
 ->Import existing maven project\
 ->Right click on project->Maven->Update project->Ok\
-->Right click on project-> Run as->Maven clean , Maven install.\
+->Right click on project-> Run as->Maven clean , Maven install\
 
 To Run:\
 ->Go to com.wissen.app.SpringBootHibernateApplication\
